@@ -53,6 +53,6 @@
 
 
 // User Count:::
-// fetch('https://api.countapi.xyz/hit/dsportfolio.netlify.app/visits').then(res => res.json()).then(res => {
-// 	document.querySelector("#count").innerHTML = res.value;
-// })
+fetch('https://api.countapi.xyz/hit/raman08.github.io/visits').then(res => res.json()).then(res => {
+	document.querySelector("#count").innerHTML = res.value;
+})
