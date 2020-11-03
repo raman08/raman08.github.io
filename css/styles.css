@@ -10396,9 +10396,6 @@ body {
 	text-decoration: none;
 }
 
-.myself{
-	font-size: 1.5rem;
-}
 
 #text_area{
 	margin-bottom: 5%;
@@ -10413,10 +10410,8 @@ body {
 }
 
 #contact_hello{
-
 	font-size: 1.5rem;
 	background: -webkit-linear-gradient(#fdfcfcd8, #c7c3c3d2);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-
 }
